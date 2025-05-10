@@ -7,6 +7,7 @@
 
 ### Linguagens e Frameworks
 <div style="display: inline_block">
+  <img align="center" alt="C#" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dart" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
