@@ -21,7 +21,7 @@
 </div>
 <br>
 
-<!-- Stats -->
+<!-- Stats 
 <a href="https://github.com/felipedresch/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipedresch&layout=compact&langs_count=8&count_private=true&card_width=320&theme=dark" />
 </a>
@@ -29,6 +29,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=felipedresch&include_all_commits=true&rank_icon=github&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 </a>
 <br>
+-->
 
 ### Databases
 <div style="display: inline-block;">
